@@ -6,8 +6,9 @@
 3. There are 25 columns of top news headlines for each day in the data frame.
 4. Used TF-IDF for extracting featues from the headlines. Used machine learning model Random Forest Classifier to predict the model.
  
-5. Class 1 – The stock price increased.
-   Class 0 – The stock price stayed the same or decreased
+ Class 1 – The stock price increased.
+   
+ Class 0 – The stock price stayed the same or decreased
 
 ### Approach:
 - First import required libraries.
